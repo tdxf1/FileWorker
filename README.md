@@ -77,3 +77,9 @@ FileWorker 是一个轻量级的文件管理和在线剪贴板，基于 Cloudfla
 ![file](README/file.png)
 
 ![manage](README/manage.png)
+
+## 🎉赞助
+
+CDN acceleration and security protection for this project are sponsored by [Tencent EdgeOne](https://edgeone.ai/?from=github).
+
+![edgeone](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)
